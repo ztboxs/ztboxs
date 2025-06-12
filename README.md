@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, I 'm ztboxs</h1>
 <h3 align="center">Independent Developer :D
 I hope to get in touch with more independent developers.</h3>
-**⚡My Project: [hashtagswall](https://hashtagswall.top)**
+
+<h3><span style="color: #ffcc00; font-weight: bold;">⚡My Project: </span><a href="https://hashtagswall.top" target="_blank" rel="noopener noreferrer">hashtagswall</a></h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ztboxs" alt="ztboxs" /></a> </p>
 

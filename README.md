@@ -14,10 +14,6 @@ I hope to get in touch with more independent developers.</h3>
 <a href="https://instagram.com/koytyou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="koytyou" height="30" width="40" /></a>
 </p>
 
-
-
-
-
 <img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ztboxs&count_private=true&show_icons=true"/>
 
 <h3 align="left">Languages and Tools:</h3>

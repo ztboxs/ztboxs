@@ -9,6 +9,9 @@ I hope to get in touch with more independent developers.</h3>
 
 
 
+
+
+
 <h3 align="left">Connect with me:</h3>
 
 

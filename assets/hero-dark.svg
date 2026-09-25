@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">ztboxs — Independent developer</title>
+  <desc id="desc">Build small. Make it useful. A minimal profile banner with an abstract stack of connected components.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#A0C0E0" opacity="0.15"/>
+    </pattern>
+    <linearGradient id="accent" x1="52" y1="0" x2="1148" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#79E6C4"/>
+      <stop offset="1" stop-color="#8DB5FF"/>
+    </linearGradient>
+    <clipPath id="clip"><rect x="1" y="1" width="1198" height="358" rx="24"/></clipPath>
+  </defs>
+  <rect x="1" y="1" width="1198" height="358" rx="24" fill="#0D1117" stroke="#26364A" stroke-width="2"/>
+  <g clip-path="url(#clip)">
+    <rect x="720" y="2" width="478" height="356" fill="url(#grid)"/>
+    <path d="M52 1H1148" stroke="url(#accent)" stroke-width="4"/>
+    <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+      <rect x="52" y="51" width="8" height="8" rx="2" fill="#79E6C4"/>
+      <text x="74" y="63" fill="#9AAEC4" font-size="18" font-weight="600" letter-spacing="2.5">INDEPENDENT DEVELOPER</text>
+      <text x="48" y="177" fill="#F0F6FC" font-size="104" font-weight="750" letter-spacing="-5">ztboxs<tspan fill="#79E6C4">.</tspan></text>
+      <text x="52" y="233" fill="#F0F6FC" font-size="30" font-weight="500" letter-spacing="-0.4">Build small. Make it useful.</text>
+      <text x="52" y="305" fill="#9AAEC4" font-size="17" font-weight="500" letter-spacing="1.4">PRODUCT</text>
+      <circle cx="166" cy="299" r="2" fill="#79E6C4"/>
+      <text x="186" y="305" fill="#9AAEC4" font-size="17" font-weight="500" letter-spacing="1.4">ENGINEERING</text>
+      <circle cx="345" cy="299" r="2" fill="#79E6C4"/>
+      <text x="365" y="305" fill="#9AAEC4" font-size="17" font-weight="500" letter-spacing="1.4">AI</text>
+    </g>
+    <g stroke-linecap="round" stroke-linejoin="round">
+      <path d="M776 129H819M1057 258H1104M1104 258V97H1057" stroke="#26364A" stroke-width="2"/>
+      <circle cx="776" cy="129" r="5" fill="#79E6C4"/>
+      <circle cx="1104" cy="258" r="5" fill="#8DB5FF"/>
+      <rect x="819" y="67" width="208" height="156" rx="16" fill="#141D29" stroke="#26364A" stroke-width="2"/>
+      <rect x="849" y="97" width="208" height="156" rx="16" fill="#141D29" stroke="#8DB5FF" stroke-width="2"/>
+      <rect x="879" y="127" width="208" height="156" rx="16" fill="#0D1117" stroke="#79E6C4" stroke-width="2"/>
+      <path d="M879 163H1087" stroke="#26364A" stroke-width="2"/>
+      <circle cx="898" cy="146" r="3" fill="#79E6C4"/>
+      <circle cx="911" cy="146" r="3" fill="#9AAEC4"/>
+      <circle cx="924" cy="146" r="3" fill="#9AAEC4"/>
+      <path d="M936 197L916 215L936 233M1030 197L1050 215L1030 233M995 190L971 242" stroke="#F0F6FC" stroke-width="4"/>
+      <path d="M932 309H1068" stroke="#26364A" stroke-width="2"/>
+      <path d="M932 309H973" stroke="#79E6C4" stroke-width="2"/>
+    </g>
+  </g>
+</svg>
